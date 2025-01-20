@@ -20,14 +20,7 @@ My portfolio. It shows my talent to future job offerings.
 
 ## Installation
 How to download
-* First go to the github link provided below and click.
-
-![image one showing how to click on green code button](./imgHere/green.PNG)
-* Next click the Code button
-* Following that you have two choices
-* Either download as a clone in your console with the git command “clone …” with the SSH by copying the link and entering the command OR download directly with the zip file and unzip the file
-
-![How to download each](./imgHere/zip.PNG)
+*Go to the website! 
 
 
 ## Usage
@@ -36,7 +29,7 @@ To look at my skills and get my face out there.
 
 
 ## Contributing
-* Gavin Stockwell -ts
+* Gavin Stockwell -js, html, css and react
 
 
 ## Tests
