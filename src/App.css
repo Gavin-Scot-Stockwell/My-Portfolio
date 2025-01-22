@@ -3,13 +3,17 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-image: url('gavin portfoilio background.png');
+  
 
   margin: 'auto';
   width: '50%';
   border: '3px';
   padding: '10px';
 
+}
+
+body{
+  background-image: url('gavin portfoilio background.png');
 }
 
 .logo {
