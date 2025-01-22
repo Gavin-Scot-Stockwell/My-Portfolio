@@ -1,3 +1,4 @@
+import light from "../style/highlight";
 export default function Email() {
   const handleSubmit = (event) => {
     event.preventDefault();
@@ -6,7 +7,7 @@ export default function Email() {
 
   return (
     <div>
-      <h3>Enter your email</h3>
+      <h3 style={light.place}>Enter your email</h3>
       <p>
         <form onSubmit={handleSubmit}>
           <input type="email" placeholder="Enter your email" required />
