@@ -1,6 +1,6 @@
 import mediaChange from "./mediaChange";
 
-  const portStyle = {
+  const portAllStyle = {
     desktop: {
     format: {
         //backgroundColor: "red",
@@ -18,5 +18,5 @@ import mediaChange from "./mediaChange";
 };
 
 // Apply mediaChange to set the format property
-portStyle.format = mediaChange(portStyle.mobile.format, portStyle.desktop.format);
-export default portStyle;
+portAllStyle.format = mediaChange(portAllStyle.mobile.format, portAllStyle.desktop.format);
+export default portAllStyle;

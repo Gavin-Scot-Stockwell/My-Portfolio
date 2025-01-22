@@ -1,20 +1,12 @@
 import { Link, useLocation } from "react-router-dom";
 import style from "../style/navStyle";
-const moreStyle = {
-  placement: {
-position: "absolute",
-    top: "0",
-    zIndex: "1",
-    backgroundColor: "#bfbf48",
-    borderRadius: '5px',
-  },
-};
+
 
 function NavTabs() {
   const currentPages = useLocation().pathname;
 
-  return (
-    <header style={moreStyle.placement} className="nav nav-tabs">
+  return (//style={moreStyle.placement}
+    <header style={style.format} className="nav nav-tabs">
       <nav className="nav-item" style={style.format}>
         <Link
           to="/"

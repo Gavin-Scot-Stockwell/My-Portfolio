@@ -1,22 +1,22 @@
 import mediaChange from "./mediaChange";
 
-const style = {
+  const portStyle = {
     desktop: {
     format: {
-        display: 'inline-block',
-        justifyContent: 'center',
-        paddingRight: '150px',
+    
         //backgroundColor: "red",
+        width: "100%",
     },
   },
   mobile: {
     format: {
         //backgroundColor: "green",
+        width: "50%",
     },
   },
   format: {},
 };
 
 // Apply mediaChange to set the format property
-style.format = mediaChange(style.mobile.format, style.desktop.format);
-export default style;
+portStyle.format = mediaChange(portStyle.mobile.format, portStyle.desktop.format);
+export default portStyle;
