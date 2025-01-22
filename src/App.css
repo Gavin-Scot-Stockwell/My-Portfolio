@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-image: ulr('gavin portfoilio background.png');
+  background-image: url('gavin portfoilio background.png');
 
   margin: 'auto';
   width: '50%';
