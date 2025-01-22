@@ -20,7 +20,8 @@ My portfolio. It shows my talent to future job offerings.
 
 ## Installation
 How to download
-*Go to the website! 
+* Go to the website! 
+* https://gavin-stockwel-port.netlify.app/portfolio
 
 
 ## Usage
@@ -34,7 +35,7 @@ To look at my skills and get my face out there.
 
 ## Tests
 * Go the website!
-*
+* https://gavin-stockwel-port.netlify.app/portfolio
 
 
 ## Questions
