@@ -5,7 +5,7 @@ export default function aboutMe() {
     return (
       <div style={aboutStyle.format}>
         <h1>About Me</h1>
-        <img src="src\assets\Gavin boot.jpg" alt="A picture of me" width="50%" height="50%" style={{ justifyContent:'center', }}/>
+        <img src="dist\assets\Gavin boot.jpg" alt="A picture of me" width="50%" height="50%" style={{ justifyContent:'center', }}/>
         <p>
       Hello!
       I am Gavin Scot Stockwell. I am a full stack web developer with a passion for game design.
